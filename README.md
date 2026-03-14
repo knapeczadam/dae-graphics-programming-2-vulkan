@@ -82,8 +82,3 @@ If you’re exploring modern graphics APIs: **experiment, profile, and embrace G
 
 ### ⚖️ License
 This repository is licensed under the **MIT License** — feel free to explore, learn, or reuse for study purposes.
-
----
-
-*Made with shaders, Vulkan, and endless curiosity 🖥️  
-— Ádám*
